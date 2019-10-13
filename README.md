@@ -1,6 +1,10 @@
 # Windows-Optimizer-Release
 Windows Optimizer Releases
 
+# Requirements
+1. Microsoft .NET Framework 3.5
+
+# Release Notes
 version 0.1.0 [Alpha]
 Changes the following values in registry:
 1. HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
