@@ -3,6 +3,7 @@ Windows Optimizer Releases
 
 # Requirements
 1. Microsoft .NET Framework 3.5
+2. Administrator Privilages (need to be set manually)
 
 # Release Notes
 version 0.1.0 [Alpha]
